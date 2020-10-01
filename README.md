@@ -24,7 +24,7 @@ There are even more things you can do. It's all up to your creativity! How creat
 
 # The Free T-shirts campaign
 
-## Really...what is this?
+## What?
 
 **Free T-shirts** is a campaign that aims to spread the awareness of free software (or open-source software) by extending on the Hacktoberfest. Through this campaign, I hope to popularize the free software movement and better demonstrate how free software can reach no limits when it is supported by a generous and passionate community of coders, testers, writers, designers, advocates, and awesome people who are genuinly commited to making the world a better place.
 
@@ -59,5 +59,6 @@ Fun badges are on their way!
 
 ## More
 
-- [List of contributors.](CONTRIBUTORS.md) This is a complete list of people who have contributed to this repository and links to their online presences.
-- [License.](LICENSE) Creative Commons Zero v1.0 Universal (which makes this repository a dedication to the public domain).
+- [**List of contributors.**](CONTRIBUTORS.md) This is a complete list of people who have contributed to this repository and links to their online presences.
+- [**Projects.**](https://github.com/you-create/free-tshirts/projects) Interested in helping? This is where we list many of the things you can do!
+- [**License.**](LICENSE) Creative Commons Zero v1.0 Universal (which makes this repository a dedication to the public domain).
