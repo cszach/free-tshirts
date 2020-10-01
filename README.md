@@ -22,7 +22,7 @@ There are even more things you can do. It's all up to your creativity! How creat
 
 ## Really...what is this?
 
-Free T-shirts is a campaign that aims to spread the awareness of free software (or open-source software) by extending on the Hacktoberfest. Through this campaign, I hope to better demonstrate how open-source software can reach no limits when it is supported by a generous and passionate community of coders, testers, writers, designers, advocates, and awesome people who are genuinly commited to making the world a better place.
+**Free T-shirts** is a campaign that aims to spread the awareness of free software (or open-source software) by extending on the Hacktoberfest. Through this campaign, I hope to better demonstrate how open-source software can reach no limits when it is supported by a generous and passionate community of coders, testers, writers, designers, advocates, and awesome people who are genuinly commited to making the world a better place.
 
 What can you do with this repository?
 
@@ -43,17 +43,17 @@ When free software flourises, software users have freedom, control, and security
 
 **When free software flourises, the world will be a better place.**
 
-## Want more than t-shirts?
+## Q & A
+
+### Where are my t-shirts?
+
+Free T-shirts is a campaign that extends upon the Hacktoberfest, which occurs annually in October. Hacktoberfest awards a t-shirt for anyone who opens 5 pull requests in October. The t-shirts will be provided to you by GitHub once you have met the requirements. In another word, the _t-shirts_ part of this campaign is completely on the GitHub side. Free T-shirts has no direct affiliation with Hacktoberfest or GitHub. We do not guarantee that you will receive a t-shirt, and we are not responsible if you do not receive any t-shirt.
+
+### Anything else?
 
 Fun badges are on their way!
 
-## Aweseom People who have contributed
+## More
 
-Thanks to all who have contributed! You are awesome! Not awesome yet? Get your name listed! It only take the same amount of time required to sign up for StackOverflow.
-
-- Me
-- [Ashutosh Ranjan](https://github.com/ashutoshhack)
-
-## License
-
-This is a dedication to the public domain (license accompanied).
+- [List of contributors.](CONTRIBUTORS.md) This is a complete list of people who have contributed to this repository and links to their online presences.
+- [License.](LICENSE) Creative Commons Zero v1.0 Universal (which makes this repository a dedication to the public domain).
