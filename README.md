@@ -3,12 +3,12 @@
 This is a community-driven repository. It look quite plain right now...Would you like to improve it?
 
 There are some things you can do:
-- Fix & improve tis README (it has some typos)
+- Fix & improve this README (it has some typos)
 - Design a banner for this repository
 - Add some code (for eample, a program writen in your favorit program language that says "Free t-shirts!")
 - Help this repo reach the [community standards](https://opensource.guide/)
 
-More creativ things you can do:
+More creative things you can do:
 - Crete a bot that automatically merges pull requests for this repo
 - Suggest a social media preview
 - Add GIFs
@@ -55,7 +55,7 @@ Free T-shirts is a campaign that extends upon the Hacktoberfest, which occurs an
 
 ### Anything else other than t-shirts?
 
-Fun badges are on their way!
+Fun badges are on their way! ;)
 
 ## More
 
