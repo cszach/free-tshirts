@@ -11,6 +11,7 @@ There are some things you can do:
 - More designs!
 - Add emojis to this README
 - Help make personalized badges for contributors
+- Add GIFs
 
 There are even more things you can do. It's all up to your creativity! How good is your creativity? Let's see!
 
@@ -22,9 +23,9 @@ Because everyone love t-shirts, especially in October...
 
 Fun badges are on their way!
 
-## People who have contributed
+## Aweseom People who have contributed
 
-Thanks to all who have contributed! Get your name listed! It only take the same amount of time required to sign up for StackOverflow.
+Thanks to all who have contributed! You are awesome! Not awesome yet? Get your name listed! It only take the same amount of time required to sign up for StackOverflow.
 
 - Me
 
