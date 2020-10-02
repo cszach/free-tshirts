@@ -47,6 +47,14 @@ When free software flourishes, software users have freedom, control, and securit
 
 **When free software flourises, the world will be a better place.**
 
+## Free Software resources
+
+- [The GNU Project, _What is free software?_](https://www.gnu.org/philosophy/free-sw.en.html)
+- [Richard Stallman, _Free Software Is Even More Important Now_](https://www.gnu.org/philosophy/free-software-even-more-important.html)
+- [The GNU Project, _Motives For Writing Free Software_](https://www.gnu.org/philosophy/fs-motives.html)
+- [Richard Stallman, _Free software, free society_ at TEDxGeneva 2014](https://youtu.be/Ag1AKIl_2GM)
+- [Free Software Resources](https://www.fsf.org/resources/)
+
 ## Q & A
 
 ### Where are my t-shirts?
