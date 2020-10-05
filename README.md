@@ -1,4 +1,4 @@
-# Hi there :wave:---#awesome repository
+# Hi there :wave:
 
 This is a community-driven repository. It look quite plain right now...Would you like to improve it?
 
