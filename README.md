@@ -1,15 +1,15 @@
 # Hi there :wave:
 
-This is a community-driven repository. It looks quite plain right now...Would you like to improve it?
+This is a community-driven repository. It looks quite plain right now. Would you like to improve it?
 
 There are some things you can do:
 - Fix & improve this README (it has some typos)
 - Design a banner for this repository
-- Add some code (for eample, a program written in your favorite programming language that says "Free t-shirts!")
-- Help this repo reach the [community standards](https://opensource.guide/)
+- Add some code (for example, a program written in your favorite programming language that says "Free t-shirts!")
+- Help this repo align with the [community standards](https://opensource.guide/)
 
 More creative things you can do:
-- Crete a bot that automatically merges pull requests for this repo
+- Create a bot that automatically merges pull requests for this repo
 - Suggest a social media preview
 - Add GIFs
 - More designs!
