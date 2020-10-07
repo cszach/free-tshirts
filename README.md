@@ -25,6 +25,7 @@ There are even more things you can do. It's all up to your creativity! How creat
 <p align="center">
   <b>The Free T-Shirts Campaign</b><br/>
   <a href="https://you-create.github.io/free-tshirts/">What's this?</a> &mdash;
+  <a href="https://github.com/you-create/free-tshirts/projects">Things you can help with</a> &mdash;
   <a href="https://you-create.github.io/free-tshirts/CONTRIBUTORS.html">Contributors</a> &mdash;
   <a href="https://creativecommons.org/publicdomain/zero/1.0/">License</a>
 </p>
