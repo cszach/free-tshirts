@@ -18,7 +18,7 @@ guides catered to designers who are interested in working with us!
 ### Colors and typography
 
 The picture below shows the colors and fonts selected for The Free T-shirts
-Campaign's designs.
+Campaign's designs. Please view the image in sRGB.
 
 ![](scheme.png)
 
