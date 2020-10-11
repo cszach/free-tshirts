@@ -31,6 +31,6 @@ creative are you? Let's see!
   <a href="https://you-create.github.io/free-tshirts/">What's this?</a> &mdash;
   <a href="https://medium.com/@you_create/participating-in-hacktoberfest-this-month-spread-the-awareness-of-free-software-while-doing-so-af6af4309921">Medium article</a> &mdash;
   <a href="https://github.com/you-create/free-tshirts/projects">Things you can help with</a> &mdash;
-  <a href="https://you-create.github.io/free-tshirts/CONTRIBUTORS.html">Contributors</a> &mdash;
+  <a href="https://you-create.github.io/free-tshirts/contributors.html">Contributors</a> &mdash;
   <a href="https://creativecommons.org/publicdomain/zero/1.0/">License</a>
 </p>
